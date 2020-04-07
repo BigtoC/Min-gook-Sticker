@@ -9,3 +9,9 @@ Cute Song Min-gook sticker
 |![哇白痴](民咕咕表情包/13.gif)|![是的是的](民咕咕表情包/14.gif)|![开心笑](民咕咕表情包/15.gif)|![不许吃了大肥婆](民咕咕表情包/16.gif)|
 ||   |   |   |
 |   |   |   |   |
+
+<style type="text/css">
+img {
+    width: 250px;
+}
+</style>
