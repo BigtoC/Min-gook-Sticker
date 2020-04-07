@@ -12,6 +12,6 @@ Cute Song Min-gook sticker
 
 <style type="text/css">
 img {
-    width: 380px;
+    width: 450px;
 }
 </style>
