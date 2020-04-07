@@ -54,7 +54,6 @@ Cute Song Min-gook sticker
 |![爱你哟](民咕咕表情包/189.jpg)|![你个猪头](民咕咕表情包/190.gif)|![开心](民咕咕表情包/191.gif)|![你不要再这样瞎几把扯了](民咕咕表情包/192.gif)|
 |||||
 
-
 <style type="text/css">
 img {
     width: 450px;
